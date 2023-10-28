@@ -33,9 +33,9 @@ Used otu_labels for the text values.
 ![image](https://github.com/DenisseOgata/belly-button-challenge/assets/123335767/40b2bf78-95fb-4a06-81ad-c218bdbb7b15)
 
 
-Display the sample metadata, i.e., an individual's demographic information.
+Displayed the sample metadata, i.e., an individual's demographic information.
 
-Display each key-value pair from the metadata JSON object somewhere on the page.
+Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
 
 
